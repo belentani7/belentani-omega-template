@@ -16,7 +16,7 @@ Inspirado en los estándares internacionales de estudios de vanguardia como **Do
 
 ## 2. Entregables Clave de la Misión
 
-### A. La Experiencia Web Aplicada (`belentani_omega_aplicado.html`)
+### A. La Experiencia Web Aplicada (`index.html`)
 Un único archivo HTML autocontenido, optimizado y riguroso que encarna físicamente los conceptos:
 - **Navegación Semántica por Estados:** Transición fluida entre *Origen, Cuerpo, Archivo, Señal, Portal y Omega*.
 - **Materia y Documento:** Integración de tu imagen propia de titulación recuperada de Google Drive dentro de un marco de archivo analógico en la sección *Cuerpo*.
@@ -37,10 +37,10 @@ Una propuesta de producción profesional para el nuevo álbum completo y su vide
 
 ## 3. Archivos Listos para Uso Local y Producción
 
-1. **`belentani_site/belentani_omega_aplicado.html`** (Sitio web interactivo con imagen propia integrada).
+1. **`index.html`** (Sitio web interactivo con imagen propia integrada).
 2. **`BELENTANI_BIBLIA_CONCEPTUAL.md`** (Guía de aplicación de los 20,000 aspectos).
 3. **`BELENTANI_JUDAS_ALBUM_VIDEOCLIP.md`** (Guion y tratamiento para JUDAS).
-4. **`belentani_site/asset_findings.md`** & **`verification_findings.md`** (Auditorías técnicas y visuales).
+4. **Auditorías locales** (`asset_findings.md` y `verification_findings.md`), conservadas fuera de la publicación para mantener el repositorio limpio.
 
 ---
 
