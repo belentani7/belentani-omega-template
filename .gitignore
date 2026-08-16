@@ -1,0 +1,13 @@
+# Archivos temporales y de análisis
+analyze_source_html.py
+source_summary.json
+verification_findings.md
+asset_findings.md
+source_omega_final_head.txt
+
+# Fuentes pesadas de referencia (mantener en local)
+source_omega_final_improved.html
+source_omega_god10k.html
+
+# Logs
+*.log
