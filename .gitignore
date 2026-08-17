@@ -1,7 +1,9 @@
 # Archivos temporales y de análisis
 analyze_source_html.py
+build_variants_3k.py
 source_summary.json
 verification_findings.md
+variant_verification.md
 asset_findings.md
 source_omega_final_head.txt
 

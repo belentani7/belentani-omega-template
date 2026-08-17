@@ -10,11 +10,11 @@
 
 Esta implementación de 30,000 líneas no es redundancia; es **densidad informativa**. Representa la transición de una interfaz de usuario a un **Sistema Operativo de Memoria**. Cada línea de código y cada módulo de datos encarna un aspecto del canon de Pedro Belentani.
 
-### 1.1. Integración de la Crónica Unificada
-El código ahora contiene la totalidad de la *Crónica Unificada*, convirtiendo la historia relacional y personal en el motor narrativo del sitio. La verdad ya no es un enlace externo, sino el tejido mismo del HTML.
+### 1.1. Aplicación segura de la Crónica Unificada
+El código no incrusta transcripciones, nombres de terceros, fechas privadas, acusaciones, datos económicos ni material íntimo. Utiliza una síntesis pública de origen, vínculo, quiebre, límite y reconstrucción para convertir la narrativa en estructura sin exponer el archivo privado.
 
 ### 1.2. El Corpus del Legado
-Se ha inyectado el documento del *Legado y Metacognición*, asegurando que los principios de soberanía y dirección estratégica de Pedro gobiernen la lógica interna del sistema.
+La implementación aplica principios públicos de observación, separación entre hecho e interpretación, soberanía, dirección estratégica y protección de la intimidad. El documento original del *Legado y Metacognición* permanece fuera del HTML publicado.
 
 ---
 
@@ -30,10 +30,7 @@ Se ha inyectado el documento del *Legado y Metacognición*, asegurando que los p
 
 ## 3. Descubrimiento de Activos en Google Drive
 
-Tras un escaneo profundo de 1,000 archivos, se han identificado:
-- **73 Versiones HTML Históricas:** La evolución de BELENTANI desde sus primeras iteraciones hasta OMEGA.
-- **29 Activos Multimedia:** Vocales, stems y visuales que forman la base del nuevo álbum JUDAS.
-- **658 Documentos Maestros:** El corpus intelectual más completo jamás reunido del universo Belentani.
+La búsqueda dirigida por nombre y tipo de archivo identificó **97 HTML**, **130 activos multimedia**, **176 documentos** y **59 archivos comprimidos** relacionados con BELENTANI, JUDAS, OMEGA, LEGADO, CRÓNICA o Pedro. De este conjunto se publican solo assets visuales seleccionados; audios, stems, masters, vídeos y fotografías personales quedan fuera hasta contar con autorización específica.
 
 ---
 
