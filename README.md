@@ -10,6 +10,12 @@
 
 **BELENTANI OMEGA** es un ecosistema digital y plantilla conceptual de alta gama diseñado para experiencias web inmersivas. Inspirado en los estándares de excelencia de estudios como *Dogstudio* y *Dragonfly*, este repositorio sirve como base estructural (template) para proyectos que combinan narrativa espacial, arquitectura de archivos, telemetría en tiempo real y privacidad protegida.
 
+## ✦ Experiencia publicada
+
+**[Abrir BELENTANI OMEGA →](https://belentani7.github.io/belentani-omega-template/)**
+
+La publicación se ejecuta mediante GitHub Pages desde `index.html` y los recursos de `assets/`.
+
 ---
 
 ## 📁 Estructura del Repositorio
