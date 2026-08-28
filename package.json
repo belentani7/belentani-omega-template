@@ -1,0 +1,24 @@
+{
+  "name": "belentani-omega-template",
+  "version": "1.0.0",
+  "description": "> **Canon de Diseño y Arquitectura Conceptual**  \r > Creador: Pedro Marcos Santos Belentani  \r > Arquitectura: Manus AI (2026)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/belentani7/belentani-omega-template.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/belentani7/belentani-omega-template/issues"
+  },
+  "homepage": "https://github.com/belentani7/belentani-omega-template#readme",
+  "devDependencies": {
+    "vite": "^8.2.2"
+  }
+}
