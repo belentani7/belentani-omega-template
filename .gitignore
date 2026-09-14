@@ -13,3 +13,12 @@ source_omega_god10k.html
 
 # Logs
 *.log
+
+# remediacion 2026-09-14
+node_modules/
+.env
+.env.*
+.mimosa/
+__pycache__/
+.vercel/
+*.log
