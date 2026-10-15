@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/belentani7/belentani-omega-template#readme",
   "devDependencies": {
-    "vite": "^8.2.2"
+    "vite": "^8.3.4"
   }
 }
