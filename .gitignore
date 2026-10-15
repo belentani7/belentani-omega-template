@@ -1,40 +1,28 @@
-# Archivos temporales y de análisis
-analyze_source_html.py
-build_variants_3k.py
-source_summary.json
-verification_findings.md
-variant_verification.md
-asset_findings.md
-source_omega_final_head.txt
+# Git Ignore
 
-# Fuentes pesadas de referencia (mantener en local)
-source_omega_final_improved.html
-source_omega_god10k.html
+# Dependencies
+/node_modules/
+/.pnp/
+/package-lock.json
+
+# Runtime stuff
+/.next/
+/out/
+
+# Build artifacts
+/dist/
+/.out/
+
+# Environment
+/.env.local
+/.env.*.local
+
+# IDE
+/.vscode/
+/.ts arqueiro/
 
 # Logs
-*.log
+/*.log
 
-# remediacion 2026-09-14
-node_modules/
-.env
-.env.*
-.mimosa/
-__pycache__/
-.vercel/
-*.log
-
-# --- guardias-sinc-2026-10-08 (auto) ---
-node_modules/
-.env
-.env.*
-!.env.example
-*.pem
-*.key
-.next/
-.nuxt/
-.turbo/
-dist/
-build/
-coverage/
-*.log
-.DS_Store
+# Vercel
+/.vercel
