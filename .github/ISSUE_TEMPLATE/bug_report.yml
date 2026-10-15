@@ -1,20 +1,9 @@
 name: Bug Report
-labels: [bug]
-title: '[Bug]: '
+title: "[BUG] "
+labels: ["bug"]
 body:
-  - type: markdown
-    attributes:
-      value: 'Gracias por reportar un bug.'
-  - type: input
-    id: repo
-    attributes:
-      label: Repositorio
-      placeholder: belentani-omega-template
-    validations:
-      required: true
   - type: textarea
     id: desc
     attributes:
-      label: Descripción
-    validations:
+      label: Description
       required: true
